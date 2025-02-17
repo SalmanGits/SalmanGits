@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/salman_ki_tweet" target="blank"><img src="https://img.shields.io/twitter/follow/salman_ki_tweet?logo=twitter&style=for-the-badge" alt="salman_ki_tweet" /></a> </p>
 
-- 🔭 I’m currently working on **Mern Stack and Devops**
+- 🔭 I’m currently working on **JS Stack and Devops**
 
-- 🌱 I’m currently learning **Go**
+- 🌱 I’m currently learning **Kubernetes**
 
 - 💬 Ask me about **Node.js,React.js,Postgresql,MongoDB etc**
 
@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/salman_ki_tweet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="salman_ki_tweet" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/belalahm1d/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/belalahm1d/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/belalahm1d/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/belalahm1d/" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/belalleet/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/belalleet/" height="30" width="40" /></a>
 </p>
 
