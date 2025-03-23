@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Kubernetes**
 
-- 💬 Ask me about **Node.js,React.js,Postgresql,MongoDB etc**
+- 💬 Ask me about **Node.js,React.js,Postgresql,MongoDB,AWS etc**
 
 - 📫 How to reach me **belalahmad10310@gmail.com**
 
